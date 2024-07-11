@@ -1,0 +1,32 @@
+
+
+
+.azeret-mono- {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+header{
+    background-image:url(../B10A1-Challenge-Begins-main/assets/Hero-bg.png);
+}
+.banner{
+       ;width: 1400px;
+    height: 524px;
+}
+.baneer-title ,.baneer-tittle{
+   justify-content: end;
+}
+.baneer-title{
+   font-size: 48px;
+   font-weight: 800;
+}
+.banner-description{
+    font-size: 16px;
+    font-weight: 400;
+}
+.banner-profile-picture{
+    width: 130px;
+    height: 136px;
+    background-position: top center;
+}
