@@ -13,10 +13,10 @@ header{
 .banner{
        ;width: 1400px;
     height: 524px;
+
+        
 }
-.baneer-title ,.baneer-tittle{
-   justify-content: end;
-}
+
 .baneer-title{
    font-size: 48px;
    font-weight: 800;
@@ -25,8 +25,36 @@ header{
     font-size: 16px;
     font-weight: 400;
 }
-.banner-profile-picture{
-    width: 130px;
-    height: 136px;
-    background-position: top center;
+
+ img{ 
+ display: block; 
+margin: 0 auto;
+align-items: ;
+}
+ .banner-class{ 
+   
+        position: absolute;
+        bottom: 300px;
+        left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
+        background-color: rgba(255, 255, 255, 0.8);
+}
+/* main style  */
+.target-title{
+    font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.target-description{
+    color: rgb(13, 19, 33);
+
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
 }
